@@ -1,2 +1,2 @@
 # neural-networks
-My implementations of different kinds of neural network (using plain libraries)
+My implementation of neural networks using plain libraries.
